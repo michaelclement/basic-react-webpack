@@ -46,3 +46,7 @@ Add tailwind classes to your react components like so:
 
 If you want to define a custom CSS class you can do so in `src/style.css`
 
+### Misc. Info
+
+Good source for icons here: https://material.io/resources/icons/?style=baseline
+
